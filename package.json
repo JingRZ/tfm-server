@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "bcryptjs-react": "^2.4.6",
+    "expo-auth-session": "^5.5.2",
+    "expo-crypto": "^13.0.2",
+    "expo-jwt": "^1.7.1"
+  }
+}

@@ -1,0 +1,8 @@
+version: '3.0'
+services:
+  ImageServer:
+    image: "img_server"
+    ports:
+      - "9091:3000"
+    volumes:
+      - .:/server
